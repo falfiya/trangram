@@ -1,0 +1,4 @@
+-Wall
+-Wextra
+-fuse-ld=lld
+-std=c11
